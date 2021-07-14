@@ -1,0 +1,16 @@
+Describir lo que acabamoos de hacer:
+1. Instalamos git en la VM
+2. Iniciamos un repositorio git en la VM y lo configuramos
+3. Conectamos nuestro repo local con el repo en github de la Mochila
+4. Clonamos el repo desde github hacia el repo local
+5. Creamos el archivo tarea.txt en la carpeta "clase_15"
+6. Respondemos preguntas
+
+Describir para que sirve apt-get:
+Sirve para instalar software en máquinas linux a través de la terminal
+
+Describir para que sirve su:
+SU: Switch User sirve para cambiarme entre usuarios
+
+Les resultó familiar esta forma de conectarse a un equipo?
+No nos fue familiar dado que siempre hemos estado acostumbrados a trabajar con interfaz gráfica
